@@ -1,3 +1,1 @@
-# Crupto
-
-https://anna-nepochatykh.github.io/Crupto/
+## [Crupto](https://anna-nepochatykh.github.io/Crupto/)
